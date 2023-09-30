@@ -43,4 +43,5 @@ Follow these steps to set up and run the application:
 
 ## License
 
-MIT. Copyright (c) Karanam Kalpesh.
+[MIT](https://github.com/Blaze2020/node_api/blob/main/LICENSE). Copyrig (c)
+Karanam Kalpesh.
